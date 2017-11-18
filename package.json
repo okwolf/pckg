@@ -1,0 +1,21 @@
+{
+  "name": "pckg",
+  "version": "0.1.0",
+  "description": "Check for available npm package names",
+  "bin": {
+    "pckg": "./index.js"
+  },
+  "scripts": {
+    "format": "npx prettier --write index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okwolf/pckg.git"
+  },
+  "author": "Wolfgang Wedemeyer <wolf@okwolf.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okwolf/pckg/issues"
+  },
+  "homepage": "https://github.com/okwolf/pckg"
+}
