@@ -1,6 +1,6 @@
 {
   "name": "pckg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check for available npm package names",
   "bin": {
     "pckg": "./index.js"
